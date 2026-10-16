@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Champion notes/Warwick.md",
+                "file": "Nattynat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warwick"
+              "title": "Nattynat"
             }
           }
         ]
@@ -191,6 +191,7 @@
   "active": "85ba7e29fcab6ff8",
   "lastOpenFiles": [
     "Notes/Home.md",
+    "Nattynat.md",
     "Champion notes/Warwick.md",
     "Champion notes",
     "Notes/Welcome.md"
